@@ -1048,3 +1048,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.21-00.31.26:770][306]LogFileHelpers: Loading map 'BAILEY_TESTING' took 0.109
 [2021.04.21-00.31.26:823][306]AssetCheck: New page: Asset Save: BAILEY_TESTING
 [2021.04.21-00.31.26:823][306]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BAILEY_TESTING.BAILEY_TESTING
+[2021.04.21-00.34.52:297][638]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/BELLA_TESTING.BELLA_TESTING
+[2021.04.21-00.34.52:306][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.21-00.34.52:308][638]Cmd: MAP LOAD FILE="../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BELLA_TESTING.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.21-00.34.52:308][638]LightingResults: New page: Lighting Build
+[2021.04.21-00.34.52:308][638]LoadErrors: New page: Loading map: BELLA_TESTING.umap
+[2021.04.21-00.34.52:309][638]LogWorld: UWorld::CleanupWorld for BAILEY_TESTING, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-00.34.52:309][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-00.34.52:309][638]MapCheck: New page: Map Check
+[2021.04.21-00.34.52:309][638]LightingResults: New page: Lighting Build
+[2021.04.21-00.34.52:318][638]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000292EF726980), frame # 29638
+[2021.04.21-00.34.52:318][638]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000292EF6FB400), frame # 29638
+[2021.04.21-00.34.52:319][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.04.21-00.34.52:341][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.21-00.34.52:341][638]LogAIModule: Creating AISystem for world BELLA_TESTING
+[2021.04.21-00.34.52:341][638]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000292DE19BA00), frame # 29638
+[2021.04.21-00.34.52:341][638]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000292EF7AFB00), frame # 29638
+[2021.04.21-00.34.52:351][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.21-00.34.52:359][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.21-00.34.52:359][638]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2021.04.21-00.34.52:359][638]LogFileHelpers: Loading map 'BELLA_TESTING' took 0.051
+[2021.04.21-00.34.54:497][881]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2021.04.21-00.35.03:642][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.21-00.35.03:670][901]LogSavePackage: Moving '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Saved/BELLA_TESTINGCD0D8F4A4B1E36DA65CEE0B6EE467FDB.tmp' to '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BELLA_TESTING.umap'
+[2021.04.21-00.35.04:306][901]LogSavePackage: Moving '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Saved/BELLA_TESTING_BuiltDataFB384D8540198167E0B5988394D1E7E5.tmp' to '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BELLA_TESTING_BuiltData.uasset'
+[2021.04.21-00.35.04:334][901]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.21-00.35.04:334][901]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BELLA_TESTING.BELLA_TESTING
+[2021.04.21-00.35.04:334][901]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BELLA_TESTING_BuiltData.BELLA_TESTING_BuiltData
+[2021.04.21-00.35.04:859][953]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/BAILEY_TESTING.BAILEY_TESTING
+[2021.04.21-00.35.04:867][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.21-00.35.04:870][953]Cmd: MAP LOAD FILE="../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BAILEY_TESTING.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.21-00.35.04:870][953]LightingResults: New page: Lighting Build
+[2021.04.21-00.35.04:870][953]LoadErrors: New page: Loading map: BAILEY_TESTING.umap
+[2021.04.21-00.35.04:870][953]LogWorld: UWorld::CleanupWorld for BELLA_TESTING, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-00.35.04:870][953]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-00.35.04:870][953]MapCheck: New page: Map Check
+[2021.04.21-00.35.04:870][953]LightingResults: New page: Lighting Build
+[2021.04.21-00.35.04:882][953]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000292EF7AFB00), frame # 30953
+[2021.04.21-00.35.04:882][953]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000292DE19BA00), frame # 30953
+[2021.04.21-00.35.04:882][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.21-00.35.04:901][953]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.21-00.35.04:901][953]LogAIModule: Creating AISystem for world BAILEY_TESTING
+[2021.04.21-00.35.04:901][953]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000292ABC55400), frame # 30953
+[2021.04.21-00.35.04:901][953]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000292C7BB1580), frame # 30953
+[2021.04.21-00.35.04:911][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.21-00.35.04:918][953]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.21-00.35.04:918][953]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2021.04.21-00.35.04:918][953]LogFileHelpers: Loading map 'BAILEY_TESTING' took 0.049

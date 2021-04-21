@@ -957,3 +957,94 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.21-00.25.53:547][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2021.04.21-00.25.53:653][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2021.04.21-00.26.03:769][137]LogSlate: Window 'Tutorials' being destroyed
+[2021.04.21-00.29.57:351][201]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.21-00.29.57:431][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.21-00.29.57:519][201]PIE: New page: PIE session: FirstPersonExampleMap (22/04/2021, 12:29:57 am)
+[2021.04.21-00.29.57:523][201]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.21-00.29.57:526][201]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.21-00.29.57:535][201]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.21-00.29.57:584][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041755s)
+[2021.04.21-00.29.57:585][201]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.04.21-00.29.57:585][201]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000292C7133E00), frame # 11201
+[2021.04.21-00.29.57:585][201]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000292DB7F6980), frame # 11201
+[2021.04.21-00.29.57:586][201]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2021.04.21-00.29.57:592][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.057191s)
+[2021.04.21-00.29.57:602][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.21-00.29.57:605][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.21-00.29.57:605][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.21-00.29.57:606][201]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.21-00.29.57:606][201]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.21-00.29.57:611][201]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.21-00.29.57:611][201]LogAudioMixer: Display: 1: FrontRight
+[2021.04.21-00.29.57:630][201]LogAudioMixer: Display: Using Audio Device Speaker (Synaptics HD Audio)
+[2021.04.21-00.29.57:630][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.21-00.29.57:630][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.21-00.29.57:630][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.21-00.29.57:631][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.21-00.29.57:641][201]LogInit: FAudioDevice initialized.
+[2021.04.21-00.29.57:666][201]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.04.21-00.29.57:805][201]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.04.21-12.29.57
+[2021.04.21-00.29.57:818][201]LogWorld: Bringing up level for play took: 0.018742
+[2021.04.21-00.29.57:819][201]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.04.21-00.29.57:996][201]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2021.04.21-00.29.58:029][201]PIE: Server logged in
+[2021.04.21-00.29.58:033][201]PIE: Play in editor total start time 0.672 seconds.
+[2021.04.21-00.30.29:831][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-00.30.29:832][968]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.04.21-00.30.29:832][968]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-00.30.29:832][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-00.30.29:844][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.21-00.30.29:869][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-00.30.29:900][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.21-00.30.29:909][968]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000292C7133E00), frame # 14968
+[2021.04.21-00.30.29:909][968]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000292DB7F6980), frame # 14968
+[2021.04.21-00.30.29:910][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.21-00.30.29:928][969]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.04.21-00.31.14:748][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.21-00.31.22:171][ 50]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.21-00.31.22:533][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.21-00.31.22:534][ 50]LogMetaData: Removing '/Game/FirstPersonBP/Maps/BELLA_TESTING.BELLA_TESTING_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.PackageMetaData'
+[2021.04.21-00.31.22:534][ 50]LogMetaData: Removing '/Game/FirstPersonBP/Maps/BELLA_TESTING.SKEL_BELLA_TESTING_C' ref from Metadata '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.PackageMetaData'
+[2021.04.21-00.31.22:926][ 50]LogSavePackage: Moving '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Saved/BELLA_TESTING_BuiltDataA3CE9811486BFE5B9A568CB36A8B41E3.tmp' to '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BELLA_TESTING_BuiltData.uasset'
+[2021.04.21-00.31.22:948][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.04.21-00.31.23:061][ 50]LogSavePackage: Moving '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Saved/BELLA_TESTING553013724E0F6321F61C76B783F67698.tmp' to '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BELLA_TESTING.umap'
+[2021.04.21-00.31.23:069][ 50]LogFileHelpers: Saving map 'BELLA_TESTING' took 0.142
+[2021.04.21-00.31.23:179][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.21-00.31.23:189][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.04.21-00.31.23:204][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.04.21-00.31.23:212][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.04.21-00.31.23:276][ 50]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.21-00.31.23:276][ 50]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/BELLA_TESTING_BuiltData.BELLA_TESTING_BuiltData
+[2021.04.21-00.31.23:276][ 50]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BELLA_TESTING.BELLA_TESTING
+[2021.04.21-00.31.25:474][306]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/BAILEY_TESTING.BAILEY_TESTING
+[2021.04.21-00.31.25:482][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.04.21-00.31.26:589][306]LogSlate: Window 'Save Content' being destroyed
+[2021.04.21-00.31.26:641][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.21-00.31.26:657][306]LogSavePackage: Moving '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Saved/BAILEY_TESTING03F3C47A4D2C1853D7D02A9CD1E654A4.tmp' to '../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BAILEY_TESTING.umap'
+[2021.04.21-00.31.26:661][306]LogFileHelpers: Saving map 'BAILEY_TESTING' took 0.036
+[2021.04.21-00.31.26:661][306]Cmd: MAP LOAD FILE="../../../../../Users/MDS00001Y6/Documents/Proto4/Proto4/Prototype4/Content/FirstPersonBP/Maps/BAILEY_TESTING.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.21-00.31.26:661][306]LightingResults: New page: Lighting Build
+[2021.04.21-00.31.26:661][306]LoadErrors: New page: Loading map: BAILEY_TESTING.umap
+[2021.04.21-00.31.26:702][306]LogWorld: UWorld::CleanupWorld for BELLA_TESTING, bSessionEnded=true, bCleanupResources=true
+[2021.04.21-00.31.26:702][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.21-00.31.26:702][306]MapCheck: New page: Map Check
+[2021.04.21-00.31.26:702][306]LightingResults: New page: Lighting Build
+[2021.04.21-00.31.26:716][306]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000292EF81C400), frame # 21306
+[2021.04.21-00.31.26:716][306]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000292EF7AE700), frame # 21306
+[2021.04.21-00.31.26:717][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.21-00.31.26:746][306]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.21-00.31.26:746][306]LogAIModule: Creating AISystem for world BAILEY_TESTING
+[2021.04.21-00.31.26:746][306]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000292EF6FB400), frame # 21306
+[2021.04.21-00.31.26:754][306]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000292EF726980), frame # 21306
+[2021.04.21-00.31.26:763][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.04.21-00.31.26:770][306]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.21-00.31.26:770][306]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2021.04.21-00.31.26:770][306]LogFileHelpers: Loading map 'BAILEY_TESTING' took 0.109
+[2021.04.21-00.31.26:823][306]AssetCheck: New page: Asset Save: BAILEY_TESTING
+[2021.04.21-00.31.26:823][306]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/BAILEY_TESTING.BAILEY_TESTING
